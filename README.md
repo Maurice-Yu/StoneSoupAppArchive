@@ -1,2 +1,2 @@
 # StoneSoupAppArchive
-an archive of my groups project Stone Soup
+An archive of my groups project Stone Soup
